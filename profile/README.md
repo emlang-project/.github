@@ -49,7 +49,7 @@ Emlang is **minimalist**:
 
 Emlang is a new project and a work in progress. However, the need for a text-based Event Modeling format is not new — it emerged from years of practice with visual modeling tools.
 
-## Specification
+## Language Specification
 
 [![Latest Release](https://img.shields.io/github/v/release/emlang-project/spec)](https://github.com/emlang-project/spec/releases)
 
